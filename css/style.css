@@ -8,6 +8,9 @@ body {
 	color: white;
 	font-family: sans-serif;
 }
+.mb{
+	margin-bottom: 2rem;
+}
 
 .box {
 	padding: 1rem;
